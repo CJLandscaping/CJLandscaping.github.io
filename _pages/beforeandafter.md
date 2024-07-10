@@ -1,6 +1,6 @@
 ---
 title: "Before and After"
-permalink: /research/
+permalink: /beforeandafter/
 author_profile: true
 ---
 
