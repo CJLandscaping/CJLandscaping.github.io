@@ -6,9 +6,9 @@ author_profile: true
 
 ### Before and After Mulching 
 
-![Before Mulching](images/mulchingbefore.jpg)
+![Before Mulching Side View](images/mulchingbeforeside1.jpg)
 
-![After Mulching](images/mulchingafter.jpg)
+![After Mulching Side View](images/mulchingafterside2.jpg)
 
 
 
