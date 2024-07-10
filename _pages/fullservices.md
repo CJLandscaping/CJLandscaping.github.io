@@ -1,6 +1,6 @@
 ---
-permalink: /vitae/
-title: "CV"
+permalink: /fullservices/
+title: "Full Services"
 ---
 
 {% include base_path %}
