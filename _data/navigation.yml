@@ -1,11 +1,8 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/ 
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Before and After"
+    url: /beforeandafter/   
     
-  - title: "CV"
-    url: /vitae/
+  - title: "Full Services"
+    url: /fullservices/
 
