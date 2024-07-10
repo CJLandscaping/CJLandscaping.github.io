@@ -11,6 +11,11 @@ author_profile: true
 ![After Mulching Side View](images/mulchingafterside.jpg)
 
 
+![Before Mulching Front View](images/mulchingbeforefront.jpg)
+
+![After Mulching Front View](images/mulchingafterfront.jpg)
+
+
 
 
 
